@@ -5,6 +5,7 @@ import "./index.css";
 import {
   HashRouter
 } from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.css';
  
 ReactDOM.render(
   <HashRouter>
